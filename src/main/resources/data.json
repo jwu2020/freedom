@@ -1,0 +1,907 @@
+[
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Sale",
+      "id": 2016312409,
+      "advertiser": {
+        "type": "Agency",
+        "id": 16953,
+        "name": "WT Newey & Co",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/16953/logo_16953.png?date=131685001173036366",
+        "preferredColourHex": "#ffff00",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/16953/banner_16953.png?date=131685001305532507",
+        "contacts": [
+          {
+            "name": "Raymond Logan",
+            "photoUrl": "https://images.domain.com.au/img/16953/contact_1171666.jpeg?mod=200615-111029"
+          },
+          {
+            "name": "Khai Hung (Mark) Huynh",
+            "photoUrl": "https://images.domain.com.au/img/16953/contact_1389217.jpeg?mod=200617-124522"
+          }
+        ]
+      },
+      "priceDetails": {
+        "displayPrice": "AUCTION"
+      },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016312409_1_1_200615_011029-w1920-h1280"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016312409_2_1_200615_011029-w1920-h1280"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016312409_3_1_200615_011029-w1920-h1280"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016312409_4_1_200615_011029-w1920-h1280"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016312409_5_1_200615_011029-w1920-h1280"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": [
+          "AirConditioning",
+          "BuiltInWardrobes",
+          "InternalLaundry",
+          "SecureParking"
+        ],
+        "propertyType": "House",
+        "allPropertyTypes": [
+          "House"
+        ],
+        "bathrooms": 2,
+        "bedrooms": 4,
+        "carspaces": 4,
+        "unitNumber": "",
+        "streetNumber": "106",
+        "street": "Northam Ave",
+        "area": "Canterbury/Bankstown",
+        "region": "Sydney Region",
+        "suburb": "BANKSTOWN",
+        "postcode": "2200",
+        "displayableAddress": "106 Northam Ave, Bankstown",
+        "latitude": -33.9268456,
+        "longitude": 151.027008
+      },
+      "headline": "MOTIVATED VENDORS.  SOUGHT AFTER LOCATION.",
+      "summaryDescription": "<b></b><br />W.T.Newey & Co are delighted to present this home to the market for the first time in 30 years. Located close to Bankstown CBD this imposing, full brick home, on a corner block of over 714m2(approx) is sure to impress. Featuring a four car...",
+      "hasFloorplan": true,
+      "hasVideo": true,
+      "labels": [
+        "New"
+      ],
+      "auctionSchedule": {
+        "time": "2020-07-11T13:30:00",
+        "auctionLocation": "on-site"
+      },
+      "inspectionSchedule": {
+        "byAppointment": false,
+        "recurring": false,
+        "times": [
+          {
+            "openingTime": "2020-06-27T13:00:00",
+            "closingTime": "2020-06-27T13:45:00"
+          },
+          {
+            "openingTime": "2020-07-04T13:00:00",
+            "closingTime": "2020-07-04T13:45:00"
+          },
+          {
+            "openingTime": "2020-07-11T13:00:00",
+            "closingTime": "2020-07-11T13:30:00"
+          }
+        ]
+      },
+      "listingSlug": "106-northam-ave-bankstown-nsw-2200-2016312409"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Sale",
+      "id": 2016302579,
+      "advertiser": {
+        "type": "Agency",
+        "id": 21255,
+        "name": "Ramsey Real Estate",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/21255/logo_21255.GIF",
+        "preferredColourHex": "#0000CC",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/21255/banner_21255.GIF",
+        "contacts": [
+          {
+            "name": "Toufic Ramadan",
+            "photoUrl": "https://images.domain.com.au/img/21255/contact_1117905.jpeg?mod=200609-162116"
+          }
+        ]
+      },
+      "priceDetails": {
+        "displayPrice": "AUCTION ON SITE"
+      },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016302579_1_1_200609_043106-w800-h532"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016302579_2_1_200609_043106-w800-h532"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016302579_3_1_200609_043106-w800-h532"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016302579_4_1_200609_043106-w800-h532"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016302579_5_1_200609_043106-w800-h532"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": [
+          "InternalLaundry",
+          "Study"
+        ],
+        "propertyType": "House",
+        "allPropertyTypes": [
+          "House"
+        ],
+        "bathrooms": 3,
+        "bedrooms": 4,
+        "carspaces": 2,
+        "unitNumber": "",
+        "streetNumber": "5",
+        "street": "Frederick Street",
+        "area": "Canterbury/Bankstown",
+        "region": "Sydney Region",
+        "suburb": "BANKSTOWN",
+        "postcode": "2200",
+        "displayableAddress": "5 Frederick Street, Bankstown",
+        "latitude": -33.90798,
+        "longitude": 151.0392
+      },
+      "headline": "DOUBLE STOREY READY TO RENOVATE!!",
+      "summaryDescription": "<b></b><br />In need of a renovation, this double storey home is ready for the professional builder or skilled renovator to totally refurbish and revamp to realize its full potential!!\r\n\r\nThis 4 bedroom home has a versatile layout; there is an extra- l...",
+      "hasFloorplan": true,
+      "hasVideo": false,
+      "labels": [],
+      "auctionSchedule": {
+        "time": "2020-07-04T13:30:00",
+        "auctionLocation": "On Site"
+      },
+      "inspectionSchedule": {
+        "byAppointment": false,
+        "recurring": false,
+        "times": [
+          {
+            "openingTime": "2020-06-24T16:00:00",
+            "closingTime": "2020-06-24T17:00:00"
+          }
+        ]
+      },
+      "listingSlug": "5-frederick-street-bankstown-nsw-2200-2016302579"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Sale",
+      "id": 2016067023,
+      "advertiser": {
+        "type": "Agency",
+        "id": 5889,
+        "name": "Ronis Real Estate",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/5889/logo_5889.png?date=132182611590182025",
+        "preferredColourHex": "#162f57",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/5889/banner_5889.png?date=132182611781277000",
+        "contacts": [
+          {
+            "name": "Jim Ronis",
+            "photoUrl": "https://images.domain.com.au/img/5889/contact_525741.JPG?mod=200409-153307"
+          },
+          {
+            "name": "George Ronis",
+            "photoUrl": "https://images.domain.com.au/img/5889/contact_627544.jpeg?mod=200424-143035"
+          }
+        ]
+      },
+      "priceDetails": {
+        "displayPrice": "Contact Agent"
+      },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016067023_1_1_200210_041055-w1920-h1280"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016067023_2_1_200210_041055-w1920-h1280"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016067023_3_1_200210_041055-w1920-h1280"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016067023_4_1_200210_041055-w1920-h1280"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016067023_5_1_200210_041055-w1920-h1280"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": [
+          "BuiltInWardrobes",
+          "Ensuite",
+          "Gas",
+          "InternalLaundry",
+          "SecureParking"
+        ],
+        "propertyType": "House",
+        "allPropertyTypes": [
+          "House"
+        ],
+        "bathrooms": 3,
+        "bedrooms": 4,
+        "carspaces": 2,
+        "unitNumber": "",
+        "streetNumber": "81",
+        "street": "Gardenia Ave",
+        "area": "Canterbury/Bankstown",
+        "region": "Sydney Region",
+        "suburb": "BANKSTOWN",
+        "postcode": "2200",
+        "displayableAddress": "81 Gardenia Ave, Bankstown",
+        "latitude": -33.9204178,
+        "longitude": 151.0407
+      },
+      "headline": "IMPRESSIVE FROM EVERY ANGLE",
+      "summaryDescription": "<b></b><br />With an abundance of natural light, this spacious home blends luxury living with family functionality presenting ample comfort for a family seeking room to move.\r\nSpanning over approx. 695sqm and offering a haven of privacy and style this ...",
+      "hasFloorplan": true,
+      "hasVideo": false,
+      "labels": [],
+      "inspectionSchedule": {
+        "byAppointment": true,
+        "recurring": false,
+        "times": []
+      },
+      "listingSlug": "81-gardenia-ave-bankstown-nsw-2200-2016067023"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Sale",
+      "id": 2016289220,
+      "advertiser": {
+        "type": "Agency",
+        "id": 12663,
+        "name": "Ray White Bankstown",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/12663/logo_12663.jpg?date=131775915744712707",
+        "preferredColourHex": "#FEE536",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/12663/banner_12663.jpg?date=131775916504222513",
+        "contacts": [
+          {
+            "name": "Andreas Kartsioulis",
+            "photoUrl": "https://images.domain.com.au/img/12663/contact_1298410.jpeg?mod=200619-104024"
+          }
+        ]
+      },
+      "priceDetails": {
+        "displayPrice": "Auction"
+      },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016289220_1_1_200601_064514-w3800-h2533"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016289220_2_1_200601_064514-w3800-h2533"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016289220_3_1_200601_064514-w3800-h2533"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016289220_4_1_200601_064514-w3800-h2533"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016289220_5_1_200601_064514-w3800-h2533"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": [
+          "AirConditioning",
+          "BuiltInWardrobes",
+          "Floorboards",
+          "Gas",
+          "InternalLaundry",
+          "SecureParking"
+        ],
+        "propertyType": "House",
+        "allPropertyTypes": [
+          "House"
+        ],
+        "bathrooms": 4,
+        "bedrooms": 5,
+        "carspaces": 1,
+        "unitNumber": "",
+        "streetNumber": "147A",
+        "street": "William Street",
+        "area": "Canterbury/Bankstown",
+        "region": "Sydney Region",
+        "suburb": "BANKSTOWN",
+        "postcode": "2200",
+        "displayableAddress": "147A William Street, Bankstown",
+        "latitude": -33.9148064,
+        "longitude": 151.019272,
+        "landArea": 405
+      },
+      "headline": "Brand New Luxurious Residence",
+      "summaryDescription": "<b></b><br />Defined by incredible dimensions and flawless contemporary style, this incredible residence is ready to deliver an ultra-luxurious lifestyle that others can only dream about. Boasting multiple bright and spacious interiors with premium fin...",
+      "hasFloorplan": true,
+      "hasVideo": true,
+      "labels": [
+        "Auction Sat 27 Jun"
+      ],
+      "auctionSchedule": {
+        "time": "2020-06-27T14:30:00",
+        "auctionLocation": "On Site"
+      },
+      "inspectionSchedule": {
+        "byAppointment": false,
+        "recurring": false,
+        "times": [
+          {
+            "openingTime": "2020-06-27T14:00:00",
+            "closingTime": "2020-06-27T14:30:00"
+          }
+        ]
+      },
+      "listingSlug": "147a-william-street-bankstown-nsw-2200-2016289220"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Sale",
+      "id": 2016308535,
+      "advertiser": {
+        "type": "Agency",
+        "id": 12663,
+        "name": "Ray White Bankstown",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/12663/logo_12663.jpg?date=131775915744712707",
+        "preferredColourHex": "#FEE536",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/12663/banner_12663.jpg?date=131775916504222513",
+        "contacts": [
+          {
+            "name": "Anthony Roumanous",
+            "photoUrl": "https://images.domain.com.au/img/12663/contact_818354.jpeg?mod=200620-091023"
+          }
+        ]
+      },
+      "priceDetails": {
+        "displayPrice": "Auction"
+      },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016308535_1_1_200611_062117-w3800-h2533"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016308535_2_1_200611_062117-w3800-h2533"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016308535_3_1_200611_062117-w3800-h2533"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016308535_4_1_200611_062117-w3800-h2533"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016308535_5_1_200611_062117-w3800-h2533"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": [],
+        "propertyType": "House",
+        "allPropertyTypes": [
+          "House"
+        ],
+        "bathrooms": 2,
+        "bedrooms": 3,
+        "carspaces": 2,
+        "unitNumber": "",
+        "streetNumber": "18",
+        "street": "Megan Avenue",
+        "area": "Canterbury/Bankstown",
+        "region": "Sydney Region",
+        "suburb": "BANKSTOWN",
+        "postcode": "2200",
+        "displayableAddress": "18 Megan Avenue, Bankstown",
+        "latitude": -33.92552,
+        "longitude": 151.036789,
+        "landArea": 1055
+      },
+      "headline": "Unlock the Potential",
+      "summaryDescription": "<b></b><br />Perfectly poised on a spacious 1055m2 block and positioned in one of Bankstown's finest cul-de-sacs streets, is this first time offered family home awaiting the astute investor and/or home owner. The potential awaits to be unlocked with th...",
+      "hasFloorplan": true,
+      "hasVideo": true,
+      "labels": [],
+      "auctionSchedule": {
+        "time": "2020-07-04T10:30:00",
+        "auctionLocation": "On Site"
+      },
+      "inspectionSchedule": {
+        "byAppointment": false,
+        "recurring": false,
+        "times": [
+          {
+            "openingTime": "2020-06-23T17:00:00",
+            "closingTime": "2020-06-23T17:30:00"
+          },
+          {
+            "openingTime": "2020-06-27T10:00:00",
+            "closingTime": "2020-06-27T10:45:00"
+          },
+          {
+            "openingTime": "2020-06-30T17:00:00",
+            "closingTime": "2020-06-30T17:30:00"
+          },
+          {
+            "openingTime": "2020-07-04T10:00:00",
+            "closingTime": "2020-07-04T10:30:00"
+          }
+        ]
+      },
+      "listingSlug": "18-megan-avenue-bankstown-nsw-2200-2016308535"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Sale",
+      "id": 2016247317,
+      "advertiser": {
+        "type": "Agency",
+        "id": 12663,
+        "name": "Ray White Bankstown",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/12663/logo_12663.jpg?date=131775915744712707",
+        "preferredColourHex": "#FEE536",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/12663/banner_12663.jpg?date=131775916504222513",
+        "contacts": [
+          {
+            "name": "Joshua Nassif",
+            "photoUrl": "https://images.domain.com.au/img/12663/contact_1474785.jpeg?mod=200620-091023"
+          }
+        ]
+      },
+      "priceDetails": {
+        "price": 899950,
+        "priceFrom": 899950,
+        "priceTo": 899950,
+        "displayPrice": "$899,950"
+      },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016247317_1_1_200506_053538-w5799-h3866"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016247317_2_1_200506_053538-w5799-h3866"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016247317_3_1_200506_053538-w5799-h3866"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016247317_4_1_200506_053538-w5799-h3866"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016247317_5_1_200506_053538-w5799-h3866"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": [
+          "AirConditioning",
+          "BuiltInWardrobes",
+          "Floorboards",
+          "Gas",
+          "SecureParking"
+        ],
+        "propertyType": "House",
+        "allPropertyTypes": [
+          "House"
+        ],
+        "bathrooms": 2,
+        "bedrooms": 5,
+        "carspaces": 2,
+        "unitNumber": "",
+        "streetNumber": "31",
+        "street": "Stansfield Avenue",
+        "area": "Canterbury/Bankstown",
+        "region": "Sydney Region",
+        "suburb": "BANKSTOWN",
+        "postcode": "2200",
+        "displayableAddress": "31 Stansfield Avenue, Bankstown",
+        "latitude": -33.9194527,
+        "longitude": 151.046814,
+        "landArea": 387
+      },
+      "headline": "Five-bedroom Family Home Walking Distance to all Amenities",
+      "summaryDescription": "<b></b><br />Positioned in one of Bankstown's finest streets, ideally located within walking distance to everything Bankstown & Punchbowl have to offer, is this modern five-bedroom family home immersed by natural sunlight.\r\n\r\nPoised in a precinct where...",
+      "hasFloorplan": true,
+      "hasVideo": true,
+      "labels": [],
+      "inspectionSchedule": {
+        "byAppointment": false,
+        "recurring": false,
+        "times": []
+      },
+      "listingSlug": "31-stansfield-avenue-bankstown-nsw-2200-2016247317"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Sale",
+      "id": 2014372361,
+      "advertiser": {
+        "type": "Agency",
+        "id": 20544,
+        "name": "Quest Realty Group",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/20544/logo_20544.GIF",
+        "preferredColourHex": "#ffffff",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/20544/banner_20544.GIF",
+        "contacts": [
+          {
+            "name": "Jason Liu",
+            "photoUrl": "https://images.domain.com.au/img/20544/contact_1255921.jpeg?mod=200611-113554"
+          }
+        ]
+      },
+      "priceDetails": {
+        "displayPrice": "$1,450,000"
+      },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2014372361_1_1_180511_123420-w1669-h1080"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2014372361_2_1_180511_123334-w1620-h1080"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2014372361_3_1_180511_123420-w1620-h1080"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2014372361_4_1_180511_123420-w1620-h1080"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2014372361_5_1_180511_123334-w1620-h1080"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": [
+          "AirConditioning",
+          "BuiltInWardrobes",
+          "SecureParking",
+          "Intercom",
+          "SolarPanels"
+        ],
+        "propertyType": "House",
+        "allPropertyTypes": [
+          "House"
+        ],
+        "bathrooms": 3,
+        "bedrooms": 5,
+        "carspaces": 5,
+        "unitNumber": "",
+        "streetNumber": "80",
+        "street": "Antwerp Street",
+        "area": "Canterbury/Bankstown",
+        "region": "Sydney Region",
+        "suburb": "BANKSTOWN",
+        "postcode": "2200",
+        "displayableAddress": "80 Antwerp Street, Bankstown",
+        "latitude": -33.9318123,
+        "longitude": 151.0208,
+        "landArea": 556
+      },
+      "headline": "Renovated and Close to all",
+      "summaryDescription": "<b></b><br />This renovated 5 bedroom family home, is set on the corner of Antwerp St & Eldridge Rd, Bankstown. Featuring spacious formal lounge, open plan living and dining area, modern open plan kitchen with granite bench-top and great size outdoor e...",
+      "hasFloorplan": false,
+      "hasVideo": false,
+      "labels": [],
+      "inspectionSchedule": {
+        "byAppointment": true,
+        "recurring": false,
+        "times": []
+      },
+      "listingSlug": "80-antwerp-street-bankstown-nsw-2200-2014372361"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Sale",
+      "id": 2015877595,
+      "advertiser": {
+        "type": "Agency",
+        "id": 8434,
+        "name": "Wiseberry Bankstown",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/8434/logo_8434.GIF",
+        "preferredColourHex": "#822433",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/8434/banner_8434.GIF",
+        "contacts": [
+          {
+            "name": "Robert Spitalieri",
+            "photoUrl": "https://images.domain.com.au/img/8434/contact_727871.jpeg?mod=200525-145516"
+          }
+        ]
+      },
+      "priceDetails": {
+        "displayPrice": "For Sale  Expression of interest"
+      },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015877595_2_1_191206_120223-w3800-h2533"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015877595_3_1_191206_120223-w3800-h2533"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015877595_5_1_191206_120223-w3800-h2533"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015877595_7_1_191206_120223-w3800-h2533"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2015877595_4_1_191206_120223-w3800-h2533"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": [
+          "AirConditioning",
+          "BuiltInWardrobes",
+          "Floorboards",
+          "Gas",
+          "SecureParking",
+          "Shed",
+          "RainwaterStorageTank"
+        ],
+        "propertyType": "House",
+        "allPropertyTypes": [
+          "House"
+        ],
+        "bathrooms": 3,
+        "bedrooms": 6,
+        "carspaces": 2,
+        "unitNumber": "",
+        "streetNumber": "26",
+        "street": "Marshall Street",
+        "area": "Canterbury/Bankstown",
+        "region": "Sydney Region",
+        "suburb": "BANKSTOWN",
+        "postcode": "2200",
+        "displayableAddress": "26 Marshall Street, Bankstown",
+        "latitude": -33.9267235,
+        "longitude": 151.033691,
+        "landArea": 1109
+      },
+      "headline": "FANTASTIC INVESTMENT!",
+      "summaryDescription": "<b></b><br />Land 1109m2 approx. with 15.24m frontage, Zoned R4 high density.\r\n\r\nGreat opportunity to secure this large parcel of land in a top location close to schools, shopping centre and station. Offers full brick 5 bedroom family home plus teenage...",
+      "hasFloorplan": true,
+      "hasVideo": false,
+      "labels": [],
+      "inspectionSchedule": {
+        "byAppointment": true,
+        "recurring": false,
+        "times": []
+      },
+      "listingSlug": "26-marshall-street-bankstown-nsw-2200-2015877595"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Sale",
+      "id": 2016078537,
+      "advertiser": {
+        "type": "Agency",
+        "id": 20544,
+        "name": "Quest Realty Group",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/20544/logo_20544.GIF",
+        "preferredColourHex": "#ffffff",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/20544/banner_20544.GIF",
+        "contacts": [
+          {
+            "name": "Alissar Hassan",
+            "photoUrl": "https://images.domain.com.au/img/20544/contact_1727459.jpeg?mod=200619-112054"
+          }
+        ]
+      },
+      "priceDetails": {
+        "displayPrice": "$1,180,000"
+      },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016078537_1_1_200214_120027-w2500-h1667"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016078537_2_1_200214_120027-w2500-h1667"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016078537_3_1_200214_120027-w2500-h1667"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016078537_4_1_200214_120027-w2500-h1667"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2016078537_5_1_200214_120027-w2500-h1667"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": [
+          "AirConditioning",
+          "BuiltInWardrobes",
+          "SecureParking",
+          "Shed"
+        ],
+        "propertyType": "House",
+        "allPropertyTypes": [
+          "House"
+        ],
+        "bathrooms": 2,
+        "bedrooms": 4,
+        "carspaces": 4,
+        "unitNumber": "",
+        "streetNumber": "19",
+        "street": "Gail Place",
+        "area": "Canterbury/Bankstown",
+        "region": "Sydney Region",
+        "suburb": "BANKSTOWN",
+        "postcode": "2200",
+        "displayableAddress": "19 Gail Place, Bankstown",
+        "latitude": -33.91523,
+        "longitude": 151.025284
+      },
+      "headline": "Blue Chip Location",
+      "summaryDescription": "<b></b><br />Be impressed with this fully renovated luxury property is situated in no-through road, Blue chip location with piece and quiet. All within minutes to Bankstown shopping centre and transport and popular cafes, restaurants, local schools and...",
+      "hasFloorplan": true,
+      "hasVideo": false,
+      "labels": [],
+      "inspectionSchedule": {
+        "byAppointment": false,
+        "recurring": false,
+        "times": []
+      },
+      "listingSlug": "19-gail-place-bankstown-nsw-2200-2016078537"
+    }
+  },
+  {
+    "type": "PropertyListing",
+    "listing": {
+      "listingType": "Sale",
+      "id": 2014735539,
+      "advertiser": {
+        "type": "Agency",
+        "id": 13866,
+        "name": "HT Wills Real Estate St George",
+        "logoUrl": "https://images.domain.com.au/img/Agencys/13866/logo_13866.png",
+        "preferredColourHex": "#231f20",
+        "bannerUrl": "https://images.domain.com.au/img/Agencys/13866/banner_13866.png",
+        "contacts": [
+          {
+            "name": "Steve Mishevski",
+            "photoUrl": "https://images.domain.com.au/img/13866/contact_780071.JPG?mod=200320-173023"
+          }
+        ]
+      },
+      "priceDetails": {
+        "displayPrice": "$4,850,000-$5,250,000"
+      },
+      "media": [
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2014734345_1_1_181025_071023-w812-h620"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2014734345_2_1_181025_071023-w2000-h2400"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2014734345_3_1_181025_071023-w2000-h1168"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2014734345_4_1_181025_071023-w2000-h1333"
+        },
+        {
+          "category": "Image",
+          "url": "https://bucket-api.domain.com.au/v1/bucket/image/2014734345_5_1_181025_071023-w2000-h1003"
+        }
+      ],
+      "propertyDetails": {
+        "state": "NSW",
+        "features": [
+          "SecureParking"
+        ],
+        "propertyType": "House",
+        "allPropertyTypes": [
+          "House"
+        ],
+        "bathrooms": 3,
+        "bedrooms": 9,
+        "carspaces": 3,
+        "unitNumber": "",
+        "streetNumber": "18-22",
+        "street": "Stanley Street",
+        "area": "Canterbury/Bankstown",
+        "region": "Sydney Region",
+        "suburb": "BANKSTOWN",
+        "postcode": "2200",
+        "displayableAddress": "18-22 Stanley Street, Bankstown",
+        "latitude": -33.92127,
+        "longitude": 151.037033,
+        "landArea": 2090
+      },
+      "headline": "SOLD BY STEVE MISHEVSKI",
+      "summaryDescription": "<b></b><br />APPROVED SITE FOR 53 UNITS DA AND CC ALREADY DONE AND PAID FOR.\r\n\r\nDEMOLITION DONE. LEVEL SITE WITH AN ATTRACTIVE DEVELOPMENT DESIGN WITH A MIXTURE OF APARMENTS WITH 1,2 AND 3 BEDROOMS WITH GENEROUS DESIGN.\r\n\r\nLevel land of 2090 sqm easy t...",
+      "hasFloorplan": false,
+      "hasVideo": false,
+      "labels": [],
+      "inspectionSchedule": {
+        "byAppointment": true,
+        "recurring": false,
+        "times": []
+      },
+      "listingSlug": "18-22-stanley-street-bankstown-nsw-2200-2014735539"
+    }
+  }
+]
